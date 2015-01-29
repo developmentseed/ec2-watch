@@ -1,4 +1,4 @@
-# ec2-list
+# ec2-watch
 
 A simple way to list ec2 instances running on your account with their size 
 and running time.
@@ -16,7 +16,7 @@ You'll need to copy the config_sample.json to config.json and add your own info.
 If all goes well, running
 
 ```
-node app.js
+node index.js
 ```
 
 will output something like
